@@ -21,9 +21,10 @@ Then load in your browser:
 
   * `./entity_graph1.html`
   * `./entity_graph2.html`
+  * `./entity_graph3.html`
+  * `./entity_graph4.html`
 
+## TODO
 
-## questions
+  * add configuration required for loading data into Senzing
 
-1. Is there there any configuration required for Senzing, i.e., to load and run the `starter-kit-data.json` ?
-2. This dataset has OpenSanctions and OpenOwnership -- was there also ICIJ?
